@@ -37,7 +37,7 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 - [CFG.TF](https://www.cfg.tf) - Open-source hub dedicated to generating custom Team Fortress 2 configurations.
 - [GameBanana](https://www.gamebanana.com/games/297) - Treasure trove of mods including custom skins, maps, UIs, models and animations. 
 - [HUDS.TF](https://huds.tf/forum/forumdisplay.php?fid=25) - A repository of community developed custom HUDs and [hitsounds](https://huds.tf/forum/forumdisplay.php?fid=27).
-- [TF2Maps](https://www.tf2maps.net) - Dedicated community for TF2 level deisgn, mapping resource, tutorials and 72-Hour Jams!
+- [TF2Maps](https://www.tf2maps.net) - Dedicated community for TF2 level design, mapping resource, tutorials and 72-Hour Jams!
 
 ## Official Sites
 - [Merchandise Store](https://valvestore.forfansbyfans.com/title/team-fortress-2.html) - Official and community submitted apparel, accessories, toys, posters and other merchandise. 
@@ -54,9 +54,9 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 
 ## Useful Tools
 - [Backpack.TF](https://www.backpack.tf) - Crowd-sourced pricelist, keeping track of user's backpack values and much more!
-- [SteamRep](https://www.steamrep.com) - An invaluable trading tool that let's you check if a potential trader is a scammer.
+- [SteamRep](https://www.steamrep.com) - An invaluable trading tool that lets you check if a potential trader is a scammer.
 - [CastingEssentials](https://github.com/PazerOP/CastingEssentials) - A plugin that enhances the viewing experience of both casters and viewers.
-- [Loadout.TF](https://www.loadout.tf) - A web-app that let's you create custom loadouts without restrictions.
+- [Loadout.TF](https://www.loadout.tf) - A web-app that lets you create custom loadouts without restrictions.
 - [VTFEdit](http://nemesis.thewavelength.net/index.php?c=178) - Used for creating Valve Texture Format (VTF) files, which can then be used as textures or sprays in-game.
 - [GCFScape](http://nemesis.thewavelength.net/?p=26) - An app that can open and extract .gcf and .vpk files, which contain the  resources for Source engine games.
 
