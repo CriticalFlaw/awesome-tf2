@@ -64,7 +64,6 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 - [GCFScape](http://nemesis.thewavelength.net/?p=26) - An app that can open and extract .gcf and .vpk files, which contain the  resources for Source engine games.
 - [Loadout.TF](https://www.loadout.tf) - A web-app that lets you create custom loadouts without restrictions.
 - [SteamRep](https://www.steamrep.com) - An invaluable trading tool that lets you check if a potential trader is a scammer.
-- [SteamRep](https://www.steamrep.com) - An invaluable trading tool that lets you check if a potential trader is a scammer.
 - [VTFEdit](http://nemesis.thewavelength.net/index.php?c=178) - Used for creating Valve Texture Format (VTF) files, which can then be used as textures or sprays in-game.
 
 ## Video Content 
