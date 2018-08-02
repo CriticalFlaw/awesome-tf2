@@ -30,10 +30,12 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 
 ## Competitive
 - [ETF2L](https://www.etf2l.org) - Free-to-play European league, featuring Highlander, 6v6, occasional tournaments and the Nations Cup.
-- [TeamFortress TV](https://www.teamfortress.tv) - Competitive TF2 news,primarily catering to North American Highlander and 6v6.
+- [TeamFortress TV](https://www.teamfortress.tv) - Competitive TF2 news, events, discussions, streams, stats and more!
+- [TF2PL](https://tf2pl.com) - 6v6 competitive platform for players of all skill levels.
 - [ozfortress](http://ozfortress.com) – Australian community 6v6 league.
 - [RGL](http://rgl.gg) – World-wide Prolander (7v7) and Highlander league.,stats and more!
 - [UGC League](https://www.ugcleague.com) - Free-to-play world-wide league,streams
+
 
 ## Modifications
 - [CFG.TF](https://www.cfg.tf) - Open-source hub dedicated to generating custom Team Fortress 2 configurations.
@@ -50,16 +52,18 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 - [Team Fortress 2 Wiki](https://wiki.teamfortress.com) - All encompassing resource for the entire Team Fortress series.
 
 ## Trading
+- [Backpack.TF](https://www.backpack.tf) - Crowd-sourced pricelist, keeping track of user's backpack values and much more!
 - [Marketplace.TF](https://www.marketplace.tf) - Securely buy and sell TF2 items with cash. No trade holds or hidden fees.
 - [STN Trading](https://stntrading.eu) - Buy and sell items “For the discerning gentleperson”.
 - [Scrap.TF](https://www.scrap.tf) - Home to automated Steam trading, scrap/hat banking, raffles and more!
 - [TF2 Outpost](https://www.tf2outpost.com) - Community-created site for organizing item, game or cash trades.
 
 ## Useful Tools
-- [Backpack.TF](https://www.backpack.tf) - Crowd-sourced pricelist, keeping track of user's backpack values and much more!
 - [CastingEssentials](https://github.com/PazerOP/CastingEssentials) - A plugin that enhances the viewing experience of both casters and viewers.
+- [Crowbar](https://steamcommunity.com/groups/CrowbarTool) - A model decompiler similar to GCFScape but more up to date and feature rich.
 - [GCFScape](http://nemesis.thewavelength.net/?p=26) - An app that can open and extract .gcf and .vpk files, which contain the  resources for Source engine games.
 - [Loadout.TF](https://www.loadout.tf) - A web-app that lets you create custom loadouts without restrictions.
+- [SteamRep](https://www.steamrep.com) - An invaluable trading tool that lets you check if a potential trader is a scammer.
 - [SteamRep](https://www.steamrep.com) - An invaluable trading tool that lets you check if a potential trader is a scammer.
 - [VTFEdit](http://nemesis.thewavelength.net/index.php?c=178) - Used for creating Valve Texture Format (VTF) files, which can then be used as textures or sprays in-game.
 
