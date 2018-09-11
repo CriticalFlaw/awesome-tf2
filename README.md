@@ -36,7 +36,6 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 - [ozfortress](http://ozfortress.com) – Australian community 6v6 league.
 - [RGL](http://rgl.gg) – World-wide Prolander (7v7) and Highlander league.,stats and more!
 - [TF2 Pro League](https://tf2pl.com/) - Powered by [FACEIT](https://www.faceit.com/en), this new 6v6 league looks to provide competition for all skill levels.
-- [TF2PL](https://tf2pl.com) - 6v6 competitive platform for players of all skill levels.
 - [TFCL](https://tfcleague.com/) - North American league, providing various levels of 6v6, Highlander, and Ultiduo competition.
 - [TeamFortress TV](https://www.teamfortress.tv) - Competitive TF2 news, events, discussions, streams, stats and more!
 - [UGC League](https://www.ugcleague.com) - Worldwide league, primarily catering to North American Highlander and 6v6.
