@@ -19,6 +19,7 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 - [Video Content](#video-content)
 
 ## Annual Charity Events
+- [Blapature Co](https://steamcommunity.com/groups/BlapatureCo) - EU based charity livestream hosted by a group of TF2 YouTubers.
 - [hugs.TF](https://hugs.tf/) - UK-based charity livestream event benefiting [Special Effect: The Gamer's Charity](https://www.specialeffect.org.uk).
 - [Tip of the Hats](https://tipofthehats.org) - US based charity livestream event benefiting [One Step Camp](http://www.onestepcamp.org/).
 
@@ -67,7 +68,6 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 - [Marketplace.TF](https://www.marketplace.tf) - Securely buy and sell TF2 items with cash. No trade holds or hidden fees.
 - [STN Trading](https://stntrading.eu) - Buy and sell items “For the discerning gentleperson”.
 - [Scrap.TF](https://www.scrap.tf) - Home to automated Steam trading, scrap/hat banking, raffles and more!
-- [TF2 Outpost](https://www.tf2outpost.com) - Community-created site for organizing item, games or cash traders.
 
 ## Useful Tools
 - [CastingEssentials](https://github.com/PazerOP/CastingEssentials) - A plugin that enhances the viewing experience of both casters and viewers.
