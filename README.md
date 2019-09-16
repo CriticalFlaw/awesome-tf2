@@ -24,7 +24,7 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 - [Tip of the Hats](https://tipofthehats.org) - US based charity livestream event benefiting [One Step Camp](http://www.onestepcamp.org/).
 
 ## Community Sites
-- [Essentials.TF](https://www.essentials.tf) - Competitive and community news aggregator and host of monthly NA/EU tournaments.
+- [Essentials.TF](https://twitter.com/tf2essentials) - Competitive and community news aggregator and host of monthly NA/EU tournaments.
 - [FuckYeahTF2](https://www.fuckyeahtf2.tumblr.com) - Tumblr for everything and anything TF2-related, namely artwork showcases.
 - [KritzKast](https://kritzkast.com) - THE Team Fortress 2 Podcast, hosted every Saturday by Agro.
 - [Teamwork.TF](https://www.teamwork.tf) - Community Quickplay, Jarate Pages, news and stats about Team Fortress 2.
@@ -33,11 +33,9 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 ## Competitive
 - [Comp.tf](http://comp.tf/wiki/Main_Page) – Community maintained wiki for the global TF2’s eSports scene.
 - [ESEA](https://play.esea.net/index.php?s=content&d=league_rules_tf2) - Paid North American league dedicated to providing the highest level 6v6 competition.
-- [ETF2L](https://www.etf2l.org) - Free-to-play European league, featuring Highlander, 6v6, occasional tournaments and the Nations Cup.
+- [ETF2L](https://etf2l.org) - Free-to-play European league, featuring Highlander, 6v6, occasional tournaments and the Nations Cup.
 - [ozfortress](http://ozfortress.com) – Australian community 6v6 league.
 - [RGL](http://rgl.gg) – World-wide Prolander (7v7) and Highlander league.,stats and more!
-- [TF2 Pro League](https://tf2pl.com/) - Powered by [FACEIT](https://www.faceit.com/en), this new 6v6 league looks to provide competition for all skill levels.
-- [TFCL](https://tfcleague.com/) - North American league, providing various levels of 6v6, Highlander, and Ultiduo competition.
 - [TeamFortress TV](https://www.teamfortress.tv) - Competitive TF2 news, events, discussions, streams, stats and more!
 - [UGC League](https://www.ugcleague.com) - Worldwide league, primarily catering to North American Highlander and 6v6.
 
@@ -67,7 +65,7 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 - [Backpack.TF](https://www.backpack.tf) - Crowd-sourced pricelist, keeping track of user’s backpack values and much more!
 - [Marketplace.TF](https://www.marketplace.tf) - Securely buy and sell TF2 items with cash. No trade holds or hidden fees.
 - [STN Trading](https://stntrading.eu) - Buy and sell items “For the discerning gentleperson”.
-- [Scrap.TF](https://www.scrap.tf) - Home to automated Steam trading, scrap/hat banking, raffles and more!
+- [Scrap.TF](https://scrap.tf) - Home to automated Steam trading, scrap/hat banking, raffles and more!
 
 ## Useful Tools
 - [CastingEssentials](https://github.com/PazerOP/CastingEssentials) - A plugin that enhances the viewing experience of both casters and viewers.
