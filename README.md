@@ -32,7 +32,6 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 
 ## Competitive
 - [Comp.tf](http://comp.tf/wiki/Main_Page) – Community maintained wiki for the global TF2’s eSports scene.
-- [ESEA](https://play.esea.net/index.php?s=content&d=league_rules_tf2) - Paid North American league dedicated to providing the highest level 6v6 competition.
 - [ETF2L](https://etf2l.org) - Free-to-play European league, featuring Highlander, 6v6, occasional tournaments and the Nations Cup.
 - [ozfortress](http://ozfortress.com) – Australian community 6v6 league.
 - [RGL](http://rgl.gg) – World-wide Prolander (7v7) and Highlander league.,stats and more!
@@ -40,10 +39,11 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 - [UGC League](https://www.ugcleague.com) - Worldwide league, primarily catering to North American Highlander and 6v6.
 
 ## Competitive Streams
-- [KritzKast](https://www.twitch.tv/kritzkast) – Streams competitive 6v6, Highlander, Prolander matches from around the world.
-- [TFLIVEtv](https://www.twitch.tv/tflivetv) – Streams competitive 6v6 from Australia’s ozfortress.
-- [TeamFortress TV](http://www.teamfortress.tv/stream/teamfortresstv) – Streams competitive 6v6 from North American ESEA.
 - [CappingTV](http://twitch.tv/CappingTV) - Streams Oceania/Asia 6v6 and Highlander matches from various leagues.
+- [Essentials.TF](https://twitch.tv/essentialstf) - Streams competitive Highlander, 6v6 and Ultiduo for RGL and ETF2L.  
+- [KritzKast](https://www.twitch.tv/kritzkast) – Streams competitive 6v6, Highlander, Prolander matches from around the world.
+- [TFLIVEtv](https://www.twitch.tv/tflivetv) – Streams competitive 6v6 for Australia’s ozfortress.
+- [TeamFortress TV](http://www.teamfortress.tv/stream/teamfortresstv) – Streams competitive 6v6 for RGL and ETF2L. 
 
 ## Modifications
 - [CFG.TF](https://www.cfg.tf) - Open-source hub dedicated to generating custom Team Fortress 2 configurations.
@@ -70,11 +70,11 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 ## Useful Tools
 - [CastingEssentials](https://github.com/PazerOP/CastingEssentials) - A plugin that enhances the viewing experience of both casters and viewers.
 - [Crowbar](https://steamcommunity.com/groups/CrowbarTool) - A model decompiler similar to GCFScape but more up to date and feature rich.
-- [GCFScape](http://nemesis.thewavelength.net/?p=26) - An app that can open and extract Source Engine content packed as .gcf and .vpk files.
+- [GCFScape](https://developer.valvesoftware.com/wiki/GCFScape) - An app that can open and extract Source Engine content packed as .gcf and .vpk files.
 - [Loadout.TF](https://www.loadout.tf) - A web-app that lets you create custom loadouts without restrictions.
 - [Modelling Resources and Tutorials](https://www.kritzkast.com/tf2_mod_guide) – Created by Pogo for KritzKast.
 - [SteamRep](https://www.steamrep.com) - An invaluable trading tool that lets you check if a potential trader is a scammer.
-- [VTFEdit](http://nemesis.thewavelength.net/index.php?c=178) - Used for creating Valve Texture Format (VTF) files, used as textures or sprays in-game.
+- [VTFEdit](https://developer.valvesoftware.com/wiki/VTFEdit) - Used for creating Valve Texture Format (VTF) files, used as textures or sprays in-game.
 
 ## Video Content 
 - [Twitch](https://www.twitch.tv/directory/game/Team%20Fortress%202) - Team Fortress 2 streams on Twitch
