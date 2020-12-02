@@ -24,6 +24,8 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 - [Tip of the Hats](https://tipofthehats.org) - US based charity livestream event benefiting [One Step Camp](http://www.onestepcamp.org/).
 
 ## Community Sites
+- [BalanceMod.TF](https://www.balancemod.tf/) -  Introduces new features and re-balances all of the unbalanced weapons in the game.
+- [Creators.TF](https://creators.tf) - TF2 community celebration project that takes the initiative to provide new content.
 - [Essentials.TF](https://twitter.com/tf2essentials) - Competitive and community news aggregator and host of monthly NA/EU tournaments.
 - [FuckYeahTF2](https://www.fuckyeahtf2.tumblr.com) - Tumblr for everything and anything TF2-related, namely artwork showcases.
 - [KritzKast](https://kritzkast.com) - THE Team Fortress 2 Podcast, hosted every Saturday by Agro.
