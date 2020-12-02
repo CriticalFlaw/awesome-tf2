@@ -22,6 +22,7 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 - [Blapature Co](https://steamcommunity.com/groups/BlapatureCo) - EU based charity livestream hosted by a group of TF2 YouTubers.
 - [hugs.TF](https://hugs.tf/) - UK-based charity livestream event benefiting [Special Effect: The Gamer's Charity](https://www.specialeffect.org.uk).
 - [Tip of the Hats](https://tipofthehats.org) - US based charity livestream event benefiting [One Step Camp](http://www.onestepcamp.org/).
+- [TFConnect](https://twitter.com/TF_Connect) - Community organized charity event focused on Mann vs. Machine benefiting [Special Effect: The Gamer's Charity](https://www.specialeffect.org.uk).
 
 ## Community Sites
 - [BalanceMod.TF](https://www.balancemod.tf/) -  Introduces new features and re-balances all of the unbalanced weapons in the game.
@@ -50,7 +51,8 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 ## Modifications
 - [CFG.TF](https://www.cfg.tf) - Open-source hub dedicated to generating custom Team Fortress 2 configurations.
 - [GameBanana](https://www.gamebanana.com/games/297) - Treasure trove of mods including custom skins, maps, UIs, models and animations.
-- [HUDS.TF](https://huds.tf/forum/forumdisplay.php?fid=25) - A repository of community developed custom HUDs and [hitsounds](https://huds.tf/forum/forumdisplay.php?fid=27).
+- [HUDS.TF](https://huds.tf/site/d-HUD?sortby=tfa_updatetime_hudsubmit&order=desc) - A repository of community developed custom HUDs and [hitsounds](https://huds.tf/forum/forumdisplay.php?fid=27).
+- [mastercomfig](https://mastercomfig.com/) - Customizable configs for optimized game performance and hit registration.
 - [TF2Maps](https://www.tf2maps.net) - Dedicated community for TF2 level design, mapping resource, tutorials and 72-Hour Jams!
 
 ## Official Valve endorsed Sites
