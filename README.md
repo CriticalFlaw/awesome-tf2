@@ -67,7 +67,7 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 
 ## Trading
 - [Backpack.TF](https://www.backpack.tf) - Crowd-sourced pricelist, keeping track of user’s backpack values and much more!
-- [Marketplace.TF](https://www.marketplace.tf) - Securely buy and sell TF2 items with cash. No trade holds or hidden fees.
+- [Marketplace.TF](https://www.marketplace.tf) - Securely buy TF2 items with cash. No trade holds or hidden fees.
 - [STN Trading](https://stntrading.eu) - Buy and sell items “For the discerning gentleperson”.
 - [Scrap.TF](https://scrap.tf) - Home to automated Steam trading, scrap/hat banking, raffles and more!
 
