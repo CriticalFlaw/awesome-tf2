@@ -1,10 +1,10 @@
 <h1 align="center">
-awesome-tf2  <a href="https://github.com/sindresorhus/awesome"><img alt="Awesome Badge" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></a><br> 
+awesome-tf2  <a href="https://github.com/sindresorhus/awesome"><img alt="Awesome Badge" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></a><br>
 </h1>
 
 <p align="center">
 A curated list of awesome Team Fortress 2 resources, tools and more.<br>  
-<i>If you have a TF2 resource or site to add, please submit a <a href="https://github.com/CriticalFlaw/awesome-tf2/pulls">pull request</a>.</br> Check the <a href="code-of-conduct.md">contribution guidelines</a> for info on formatting and writing pull requests.</i> 
+<i>If you have a TF2 resource or site to add, please submit a <a href="https://github.com/CriticalFlaw/awesome-tf2/pulls">pull request</a>.</br> Check the <a href="code-of-conduct.md">contribution guidelines</a> for info on formatting and writing pull requests.</i>
 </p>
 
 ### Table of Contents
@@ -45,10 +45,11 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 - [Essentials.TF](https://twitch.tv/essentialstf) - Streams competitive Highlander, 6v6 and Ultiduo for RGL and ETF2L.  
 - [KritzKast](https://twitch.tv/kritzkast) – Streams competitive 6v6, Highlander, Prolander matches from around the world.
 - [TFLIVEtv](https://twitch.tv/tflivetv) – Streams competitive 6v6 for Australia’s ozfortress.
-- [TeamFortress TV](https://teamfortress.tv/stream/teamfortresstv) – Streams competitive 6v6 for RGL and ETF2L. 
+- [TeamFortress TV](https://teamfortress.tv/stream/teamfortresstv) – Streams competitive 6v6 for RGL and ETF2L.
 
 ## Modifications
 - [CFG.TF](https://cfg.tf/) - Open-source hub dedicated to generating custom Team Fortress 2 configurations.
+- [CleanTF2plus](https://github.com/JarateKing/CleanTF2plus) - A sequel to the original Clean TF2 mod. Designed to provide mods that reduces visual clutter and increase fps.
 - [GameBanana](https://gamebanana.com/games/297) - Treasure trove of mods including custom skins, maps, UIs, models and animations.
 - [HUDS.TF](https://huds.tf/) - A repository of community developed custom HUDs and [hitsounds](https://huds.tf/site/d-Hitsound).
 - [mastercomfig](https://mastercomfig.com/) - Customizable configs for optimized game performance and hit registration.
@@ -78,8 +79,11 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 - [Loadout.TF](https://loadout.tf/) - A web-app that lets you create custom loadouts without restrictions.
 - [Modelling Resources and Tutorials](https://kritzkast.com/tf2_mod_guide) – Created by Pogo for KritzKast.
 - [SteamRep](https://steamrep.com/) - An invaluable trading tool that lets you check if a potential trader is a scammer.
+- [Rep.TF](https://rep.tf/) - Search many player reputation databases, all in one place.
+- [TF2 Bot Detector](https://botdetector.tf/) - A tool that assists with detecting & kicking bots & cheaters
 - [VTFEdit](https://developer.valvesoftware.com/wiki/VTFEdit) - Used for creating Valve Texture Format (VTF) files, used as textures or sprays in-game.
+- [Weapons.TF](https://weapons.tf/) - A web-app that lets you preview TF2 decorated weapons
 
-## Video Content 
+## Video Content
 - [Twitch](https://twitch.tv/directory/game/Team%20Fortress%202) - Team Fortress 2 streams on Twitch
 - [YouTube](https://youtube.com/results?search_query=Team+Fortress+2) - Team Fortress 2 videos on YouTube
