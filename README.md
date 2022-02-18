@@ -78,8 +78,8 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 - [HUD Editor](https://github.com/CriticalFlaw/TF2HUD.Editor) - A tool for installing and customizing your favorite custom Team Fortress 2 HUDs.
 - [Loadout.TF](https://loadout.tf/) - A web-app that lets you create custom loadouts without restrictions.
 - [Modelling Resources and Tutorials](https://kritzkast.com/tf2_mod_guide) – Created by Pogo for KritzKast.
-- [SteamRep](https://steamrep.com/) - An invaluable trading tool that lets you check if a potential trader is a scammer.
 - [Rep.TF](https://rep.tf/) - Search many player reputation databases, all in one place.
+- [SteamRep](https://steamrep.com/) - An invaluable trading tool that lets you check if a potential trader is a scammer.
 - [TF2 Bot Detector](https://botdetector.tf/) - A tool that assists with detecting & kicking bots & cheaters
 - [VTFEdit](https://developer.valvesoftware.com/wiki/VTFEdit) - Used for creating Valve Texture Format (VTF) files, used as textures or sprays in-game.
 - [Weapons.TF](https://weapons.tf/) - A web-app that lets you preview TF2 decorated weapons
