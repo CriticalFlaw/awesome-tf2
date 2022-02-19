@@ -53,6 +53,7 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 - [GameBanana](https://gamebanana.com/games/297) - Treasure trove of mods including custom skins, maps, UIs, models and animations.
 - [HUDS.TF](https://huds.tf/) - A repository of community developed custom HUDs and [hitsounds](https://huds.tf/site/d-Hitsound).
 - [mastercomfig](https://mastercomfig.com/) - Customizable configs for optimized game performance and hit registration.
+- [Paysus Skins](https://steamcommunity.com/groups/PaysusSkins) - Source of TF2 Animation Mods and More!
 - [TF2Maps](https://tf2maps.net/) - Dedicated community for TF2 level design, mapping resource, tutorials and 72-Hour Jams!
 
 ## Official Valve endorsed Sites
@@ -79,6 +80,7 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 - [Loadout.TF](https://loadout.tf/) - A web-app that lets you create custom loadouts without restrictions.
 - [Modelling Resources and Tutorials](https://kritzkast.com/tf2_mod_guide) – Created by Pogo for KritzKast.
 - [Rep.TF](https://rep.tf/) - Search many player reputation databases, all in one place.
+- [Serveme.TF](https://serveme.tf/) - The easiest way to get a TF2 server
 - [SteamRep](https://steamrep.com/) - An invaluable trading tool that lets you check if a potential trader is a scammer.
 - [TF2 Bot Detector](https://botdetector.tf/) - A tool that assists with detecting & kicking bots & cheaters
 - [VTFEdit](https://developer.valvesoftware.com/wiki/VTFEdit) - Used for creating Valve Texture Format (VTF) files, used as textures or sprays in-game.
