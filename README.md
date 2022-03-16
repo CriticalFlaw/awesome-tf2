@@ -36,10 +36,14 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 - [r/TF2](https://reddit.com/r/tf2/) - Subreddit dedicated to any and all Team Fortress 2 content; news, jokes and discussions.
 
 ## Competitive
+- [asiafortress](https://asiafortress.com/) - Asian community website, hosting Team Fortress 2 6v6 events for the Asia region.
+- [comp.tf](https://comp.tf/wiki/Main_Page) - Competitive TF2 Wiki
 - [ETF2L](https://etf2l.org/) - Free-to-play European league, featuring Highlander, 6v6, occasional tournaments and the Nations Cup.
+- [Newbie.TF](https://newbie.tf/) - Play your first games of competitive TF2 with other new players, led by an experienced coach.
 - [ozfortress](https://ozfortress.com/) – Australian community 6v6 league.
 - [RGL](https://rgl.gg/) – World-wide Prolander (7v7) and Highlander league.,stats and more!
 - [TeamFortress TV](https://teamfortress.tv/) - Competitive TF2 news, events, discussions, streams, stats and more!
+- [TF2Center](https://tf2center.com/lobbies) - TF2Center was created to help bridge the gap between public and competitive play for TF2.
 - [UGC League](https://ugcleague.com/) - Worldwide league, primarily catering to North American Highlander and 6v6.
 
 ## Competitive Streams
