@@ -29,6 +29,8 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 - [Creators.TF](https://creators.tf/) - TF2 community celebration project that takes the initiative to provide new content.
 - [Essentials.TF](https://twitter.com/tf2essentials) - Competitive and community news aggregator and host of monthly NA/EU tournaments.
 - [FuckYeahTF2](https://fuckyeahtf2.tumblr.com/) - Tumblr for everything and anything TF2-related, namely artwork showcases.
+- [Jump.TF](https://jump.tf/) - The TF2 Jumping community.
+- [Jump Academy](https://jumpacademy.tf/) - A growing community of jumpers from all around the world who share the same passion for rocket jumping in Team Fortress 2.
 - [KritzKast](https://kritzkast.com/) - THE Team Fortress 2 Podcast, hosted every Saturday by Agro.
 - [Teamwork.TF](https://teamwork.tf/) - Community Quickplay, Jarate Pages, news and stats about Team Fortress 2.
 - [r/TF2](https://reddit.com/r/tf2/) - Subreddit dedicated to any and all Team Fortress 2 content; news, jokes and discussions.
