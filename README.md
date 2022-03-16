@@ -31,7 +31,6 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 - [FuckYeahTF2](https://fuckyeahtf2.tumblr.com/) - Tumblr for everything and anything TF2-related, namely artwork showcases.
 - [KritzKast](https://kritzkast.com/) - THE Team Fortress 2 Podcast, hosted every Saturday by Agro.
 - [Teamwork.TF](https://teamwork.tf/) - Community Quickplay, Jarate Pages, news and stats about Team Fortress 2.
-- [TF2Maps.net](https://tf2maps.net/) - One of the biggest and busiest forums in the enthusiast community for Team Fortress mapping.
 - [r/TF2](https://reddit.com/r/tf2/) - Subreddit dedicated to any and all Team Fortress 2 content; news, jokes and discussions.
 
 ## Competitive
