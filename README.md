@@ -37,7 +37,6 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 
 ## Competitive
 - [asiafortress](https://asiafortress.com/) - Asian community website, hosting Team Fortress 2 6v6 events for the Asia region.
-- [comp.tf](https://comp.tf/wiki/Main_Page) - Competitive TF2 Wiki
 - [ETF2L](https://etf2l.org/) - Free-to-play European league, featuring Highlander, 6v6, occasional tournaments and the Nations Cup.
 - [Newbie.TF](https://newbie.tf/) - Play your first games of competitive TF2 with other new players, led by an experienced coach.
 - [ozfortress](https://ozfortress.com/) – Australian community 6v6 league.
