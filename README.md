@@ -19,10 +19,10 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 - [Video Content](#video-content)
 
 ## Annual Charity Events
-- [Blapature Co](https://steamcommunity.com/groups/BlapatureCo) - EU based charity livestream hosted by a group of TF2 YouTubers.
-- [hugs.TF](https://hugs.tf/) - UK-based charity livestream event benefiting [Special Effect: The Gamer's Charity](https://specialeffect.org.uk/).
-- [Tip of the Hats](https://tipofthehats.org/) - US based charity livestream event benefiting [One Step Camp](https://camponestep.org/).
-- [TFConnect](https://twitter.com/TF_Connect) - Community organized charity event focused on Mann vs. Machine benefiting [Special Effect: The Gamer's Charity](https://specialeffect.org.uk/).
+- [Blapature Co.](https://steamcommunity.com/groups/BlapatureCo) - EU-based charity livestream hosted by a group of TF2 YouTubers.
+- [hugs.TF](https://hugs.tf/) - UK-based charity livestream event benefiting [Special Effect](https://specialeffect.org.uk/).
+- [TFConnect](https://twitter.com/TF_Connect) - Community ran charity event focused on Mann vs. Machines, benefiting [Special Effect](https://specialeffect.org.uk/).
+- [Tip of the Hats](https://tipofthehats.org/) - Charity livestream benefiting [One Step Camp](https://camponestep.org/). Ran from 2013-2021.
 
 ## Community Sites
 - [BalanceMod.TF](https://balancemod.tf/) -  Introduces new features and re-balances all of the unbalanced weapons in the game.
@@ -30,8 +30,9 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 - [Essentials.TF](https://twitter.com/tf2essentials) - Competitive and community news aggregator and host of monthly NA/EU tournaments.
 - [FuckYeahTF2](https://fuckyeahtf2.tumblr.com/) - Tumblr for everything and anything TF2-related, namely artwork showcases.
 - [Jump.TF](https://jump.tf/) - The TF2 Jumping community.
-- [Jump Academy](https://jumpacademy.tf/) - A growing community of jumpers from all around the world who share the same passion for rocket jumping in Team Fortress 2.
+- [Jump Academy](https://jumpacademy.tf/) - Community of jumpers from all around the world who share the same passion for rocket jumping.
 - [KritzKast](https://kritzkast.com/) - THE Team Fortress 2 Podcast, hosted every Saturday by Agro.
+- [Potato.TF](https://potato.tf/servers) - Community made Mann vs. Machine tours. Play and level up to earn in-game medals.
 - [Teamwork.TF](https://teamwork.tf/) - Community Quickplay, Jarate Pages, news and stats about Team Fortress 2.
 - [r/TF2](https://reddit.com/r/tf2/) - Subreddit dedicated to any and all Team Fortress 2 content; news, jokes and discussions.
 
@@ -54,7 +55,7 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 
 ## Modifications
 - [CFG.TF](https://cfg.tf/) - Open-source hub dedicated to generating custom Team Fortress 2 configurations.
-- [CleanTF2plus](https://github.com/JarateKing/CleanTF2plus) - A sequel to the original Clean TF2 mod. Designed to provide mods that reduces visual clutter and increase fps.
+- [CleanTF2plus](https://github.com/JarateKing/CleanTF2plus) - A sequel to the original Clean TF2 mod. Designed to provide mods that reduces visual clutter and increase FPS.
 - [GameBanana](https://gamebanana.com/games/297) - Treasure trove of mods including custom skins, maps, UIs, models and animations.
 - [HUDS.TF](https://huds.tf/) - A repository of community developed custom HUDs and [hitsounds](https://huds.tf/site/d-Hitsound).
 - [mastercomfig](https://mastercomfig.com/) - Customizable configs for optimized game performance and hit registration.
@@ -63,13 +64,13 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 
 ## Official Valve endorsed Sites
 - [Merchandise](https://valvestore.forfansbyfans.com/title/team-fortress-2.html) - WeLoveFine’s official store selling original and community submitted items.
-- [Source Games' Issues](https://github.com/ValveSoftware/Source-1-Games/issues) - Bug reports and feature requests tracker for TF2 and the Source Engine.
+- [Source Games Issue Tracker](https://github.com/ValveSoftware/Source-1-Games/issues) - Bug reports and feature requests tracker for TF2 and the Source Engine.
 - [Steam Community Market](https://steamcommunity.com/market/search?appid=440) - Buy and sell items with other Steam community members.
 - [Steam Workshop](https://steamcommunity.com/workshop/browse/?appid=440) - Submit new in-game items for Valve’s consideration, and view others’ works.
 - [Team Fortress 2 Blog](https://teamfortress.com/) - Development team's blog and host for TF2's [comics](https://teamfortress.com/comics.php) and [update history](https://teamfortress.com/history.php).
+- [Team Fortress 2 Twitter](https://twitter.com/teamfortress) – Emergency resource for posting updates.
 - [Team Fortress 2 Wiki](https://wiki.teamfortress.com/) - All encompassing resource for the entire Team Fortress series.
 - [Team Fortress 2 YouTube](https://youtube.com/user/teamfortress) – Home of Valve Software’s “Meet the Team” videos.
-- [Team Fortress 2 Twitter](https://twitter.com/teamfortress) – Emergency resource for posting updates.
 
 ## Trading
 - [Backpack.TF](https://backpack.tf/) - Crowd-sourced pricelist, keeping track of user’s backpack values and much more!
@@ -85,12 +86,12 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 - [Loadout.TF](https://loadout.tf/) - A web-app that lets you create custom loadouts without restrictions.
 - [Modelling Resources and Tutorials](https://kritzkast.com/tf2_mod_guide) – Created by Pogo for KritzKast.
 - [Rep.TF](https://rep.tf/) - Search many player reputation databases, all in one place.
-- [Serveme.TF](https://serveme.tf/) - The easiest way to get a TF2 server
+- [Serveme.TF](https://serveme.tf/) - The easiest way to get a TF2 server.
 - [SteamRep](https://steamrep.com/) - An invaluable trading tool that lets you check if a potential trader is a scammer.
-- [TF2 Bot Detector](https://botdetector.tf/) - A tool that assists with detecting & kicking bots & cheaters
+- [TF2 Bot Detector](https://botdetector.tf/) - A tool that assists with detecting & kicking bots & cheaters.
 - [VTFEdit](https://developer.valvesoftware.com/wiki/VTFEdit) - Used for creating Valve Texture Format (VTF) files, used as textures or sprays in-game.
-- [Weapons.TF](https://weapons.tf/) - A web-app that lets you preview TF2 decorated weapons
+- [Weapons.TF](https://weapons.tf/) - A web-app that lets you preview TF2 decorated weapons.
 
 ## Video Content
-- [Twitch](https://twitch.tv/directory/game/Team%20Fortress%202) - Team Fortress 2 streams on Twitch
-- [YouTube](https://youtube.com/results?search_query=Team+Fortress+2) - Team Fortress 2 videos on YouTube
+- [Twitch](https://twitch.tv/directory/game/Team%20Fortress%202) - Team Fortress 2 streams on Twitch.
+- [YouTube](https://youtube.com/results?search_query=Team+Fortress+2) - Team Fortress 2 videos on YouTube.
