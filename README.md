@@ -29,15 +29,20 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 - [Creators.TF](https://creators.tf/) - TF2 community celebration project that takes the initiative to provide new content.
 - [Essentials.TF](https://twitter.com/tf2essentials) - Competitive and community news aggregator and host of monthly NA/EU tournaments.
 - [FuckYeahTF2](https://fuckyeahtf2.tumblr.com/) - Tumblr for everything and anything TF2-related, namely artwork showcases.
+- [Jump.TF](https://jump.tf/) - The TF2 Jumping community.
+- [Jump Academy](https://jumpacademy.tf/) - A growing community of jumpers from all around the world who share the same passion for rocket jumping in Team Fortress 2.
 - [KritzKast](https://kritzkast.com/) - THE Team Fortress 2 Podcast, hosted every Saturday by Agro.
 - [Teamwork.TF](https://teamwork.tf/) - Community Quickplay, Jarate Pages, news and stats about Team Fortress 2.
 - [r/TF2](https://reddit.com/r/tf2/) - Subreddit dedicated to any and all Team Fortress 2 content; news, jokes and discussions.
 
 ## Competitive
+- [asiafortress](https://asiafortress.com/) - Asian community website, hosting Team Fortress 2 6v6 events for the Asia region.
 - [ETF2L](https://etf2l.org/) - Free-to-play European league, featuring Highlander, 6v6, occasional tournaments and the Nations Cup.
+- [Newbie.TF](https://newbie.tf/) - Play your first games of competitive TF2 with other new players, led by an experienced coach.
 - [ozfortress](https://ozfortress.com/) – Australian community 6v6 league.
 - [RGL](https://rgl.gg/) – World-wide Prolander (7v7) and Highlander league.,stats and more!
 - [TeamFortress TV](https://teamfortress.tv/) - Competitive TF2 news, events, discussions, streams, stats and more!
+- [TF2Center](https://tf2center.com/lobbies) - TF2Center was created to help bridge the gap between public and competitive play for TF2.
 - [UGC League](https://ugcleague.com/) - Worldwide league, primarily catering to North American Highlander and 6v6.
 
 ## Competitive Streams
@@ -53,6 +58,7 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 - [GameBanana](https://gamebanana.com/games/297) - Treasure trove of mods including custom skins, maps, UIs, models and animations.
 - [HUDS.TF](https://huds.tf/) - A repository of community developed custom HUDs and [hitsounds](https://huds.tf/site/d-Hitsound).
 - [mastercomfig](https://mastercomfig.com/) - Customizable configs for optimized game performance and hit registration.
+- [Paysus Skins](https://steamcommunity.com/groups/PaysusSkins) - Source of TF2 Animation Mods and More!
 - [TF2Maps](https://tf2maps.net/) - Dedicated community for TF2 level design, mapping resource, tutorials and 72-Hour Jams!
 
 ## Official Valve endorsed Sites
@@ -79,6 +85,7 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 - [Loadout.TF](https://loadout.tf/) - A web-app that lets you create custom loadouts without restrictions.
 - [Modelling Resources and Tutorials](https://kritzkast.com/tf2_mod_guide) – Created by Pogo for KritzKast.
 - [Rep.TF](https://rep.tf/) - Search many player reputation databases, all in one place.
+- [Serveme.TF](https://serveme.tf/) - The easiest way to get a TF2 server
 - [SteamRep](https://steamrep.com/) - An invaluable trading tool that lets you check if a potential trader is a scammer.
 - [TF2 Bot Detector](https://botdetector.tf/) - A tool that assists with detecting & kicking bots & cheaters
 - [VTFEdit](https://developer.valvesoftware.com/wiki/VTFEdit) - Used for creating Valve Texture Format (VTF) files, used as textures or sprays in-game.
