@@ -6,12 +6,12 @@
 /* Fonts */
 @font-face {
     font-family: 'Tf2build';
-    src: url(../tf2build.ttf);
+    src: url(../docs/tf2build.ttf);
 }
 
 @font-face {
     font-family: 'Tf2secondary';
-    src: url(../TF2secondary.ttf);
+    src: url(../docs/TF2secondary.ttf);
 }
 
 /* Colours */
