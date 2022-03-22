@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+        <meta name="description" content="Team Fortress 2 UI Kit.">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="icon" type="image/x-icon" href="favicon.ico">
+        <link rel="stylesheet" type="text/css" href="stylesheet.css">
+        <title>Team Fortress 2 UI Kit</title>
+        <style>
+            .mwidth {
+                max-width: 1000px;
+                margin: 0 auto;
+                box-sizing: border-box;
+                padding: 0px 20px;
+            }
+            .header-light-grid {padding-left: 20px;}
+        </style>
+	</head>
+    <body style="margin: 0px; padding: 0px; min-width: 800px;">
+        <div class="mwidth">
+            <h1>Team Fortress 2 UI Kit</h1>
+            <p class="text-large">
+                Hi folks, this is a UI Kit put together by me based roughly on the UI elements
+                of Team Fortress 2.
+            </p>
+            <h2>Using this Kit</h2>
+            <p>
+                You need the <span class="highlight">teamfortress.css</span> file located in the
+                <span class="highlight">styles</span> folder. You also need both the fonts located
+                in the <span class="highlight">fonts</span> folder, then you're good to go!
+            </p>
+            <h2>Layout</h2>
+            <p>
+                I haven't provided much provision for layout, the classes I have provided is
+                the <span class="highlight">.grid</span> class which will display a grid with
+                two equal columns. If you want more columns use the following additional classes
+                <span class="highlight">.grid-col3, .grid-col4, .grid-col5, .grid-col6</span>.
+                <br><br>You can add a gap between each grid item by appending the class
+                <span class="highlight">.grid-gap</span>. Finally I've added a padded box class
+                that adds 20px padding to a grid item or any container.
+                <span class="highlight">.padded-box</span><br><br>
+                Other than those classes, you'll have to improvise and roll your own styles.
+            </p>
+            <h2>Colours</h2>
+            <h3>Background Colours</h3>
+            <p>
+                By default the background of the page is set to the dark background you see here.
+                You can change this to the light variant by adding the
+                <span class="highlight">.background-light</span> class to the body.
+            </p>
+            <h3>Other Colours</h3>
+            <p>
+                There are a large number of colours available, most of which can be added
+                by adding the relevant class. See below for a list of span elements styled
+                with the available colours.<br><br>
+                <span>Default Colour</span>
+                <span class="unique">Unique (.unique)</span>
+                <span class="vintage">Vintage Quality (.vintage)</span>
+                <span class="genuine">Genuine Quality (.genuine)</span>
+                <span class="strange">Strange Quality (.strange)</span>
+                <span class="unusual">Unusual Quality (.unusual)</span>
+                <span class="haunted">Haunted Quality (.haunted)</span>
+                <span class="collectors">Collectors Quality (.collectors)</span>
+                <span class="decorated">Decorated Quality (.decorated)</span>
+                <span class="community">Community Quality (.community)</span>
+                <span class="valve">Valve Quality (.valve)</span>
+                <span class="highlight">Highlight(.highlight)</span>
+                <span class="red">Red Team Spirit (.red)</span>
+                <span class="blu">Blu Team Spirit (.blu)</span>
+            </p>
+            <h2>Headers</h2>
+            <p>
+                Headers use the all capital font-face included in the fonts
+                folder. See the examples below. By default the headers use the light colour
+                variant but there are also dark options available for use on lighter backgrounds.
+                Just add the <span class="highlight">.dark</span> class.
+            </p>
+            <div class="grid">
+                <div>
+                    <h1>Header 1</h1>
+                    <h2>Header 2</h2>
+                    <h3>Header 3</h3>
+                    <h4>Header 4</h4>
+                    <h5>Header 5</h5>
+                    <h6>Header 6</h6>
+                </div>
+                <div class="background-light header-light-grid">
+                    <h1 class="dark">Header 1</h1>
+                    <h2 class="dark">Header 2</h2>
+                    <h3 class="dark">Header 3</h3>
+                    <h4 class="dark">Header 4</h4>
+                    <h5 class="dark">Header 5</h5>
+                    <h6 class="dark">Header 6</h6>
+                </div>
+            </div>
+            <h2>Paragraphs</h2>
+            <p>
+                Paragraphs use the alternative font-face included in the font folder.
+                Like headers, text has both a light option and a dark option which can be
+                specified by adding the <span class="highlight">.dark</span> class.
+            </p>
+            <div class="background-light padded-box">
+                <p class="dark">
+                    This is an example of the dark text option. When used with the
+                    lighter background.
+                </p>
+                <p class="dark text-large">
+                    This is an example of the dark text option. With larger text variant added
+                    with <span class="highlight">.text-large</span> class.
+                </p>
+            </div>
+            <h2>Links</h2>
+            <p>
+                Links are styled as you would expect, with a 0.3s transition on hover changing
+                the colour to <span class="highlight">item highlight</span>. There is also a
+                dark option available just add the <span class="highlight">.dark</span> class.
+            </p>
+            <div class="padded-box">
+                <a href="#">An example link</a>
+            </div>
+            <div class="background-light padded-box">
+                <a href="#" class="dark">An example dark link</a>
+            </div>
+            <h2>Buttons</h2>
+            <p>
+                Buttons are available in two variants, light and dark as well as 3 different
+                sizes. For dark buttons add the <span class="highlight">.dark-button</span> class.
+            </p>
+            <div class="padded-box">
+                <button class="btn-small">Button small</button>
+                <button>Button default</button>
+                <button class="btn-large">Button large</button>
+            </div>
+            <div class="padded-box background-light">
+                <button class="btn-small dark-button">Button small</button>
+                <button class="dark-button">Button default</button>
+                <button class="btn-large dark-button">Button large</button>
+            </div>
+            <h2>Tags</h2>
+            <p>
+                Tags are based on the item tags in TF2. Each tag is a span element and has two sizes, the
+                default small and an optional large version, add <span class="highlight">.tag-large</span> to element. By default the colour
+                of the tag is the common item quality in TF2, but you can specifiy different item quality
+                colours. Inspect these elements to see the class names.
+            </p>
+            <div class="background-light padded-box">
+                <span class="tag">Normal</span>
+                <span class="tag unique">Unique</span>
+                <span class="tag vintage">Vintage</span>
+                <span class="tag genuine">Genuine</span>
+                <span class="tag strange">Strange</span>
+                <span class="tag unusual">Unusual</span>
+                <span class="tag haunted">Haunted</span>
+                <span class="tag collectors">Collectors</span>
+                <span class="tag decorated">Decorated</span>
+                <span class="tag community">Community</span>
+                <span class="tag valve">Valve</span>
+                <div>
+                    <span class="tag tag-large">Normal</span>
+                    <span class="tag tag-large unique">Unique</span>
+                    <span class="tag tag-large vintage">Vintage</span>
+                    <span class="tag tag-large genuine">Genuine</span>
+                    <span class="tag tag-large strange">Strange</span>
+                    <span class="tag tag-large unusual">Unusual</span>
+                    <span class="tag tag-large haunted">Haunted</span>
+                    <span class="tag tag-large collectors">Collectors</span>
+                    <span class="tag tag-large decorated">Decorated</span>
+                    <span class="tag tag-large community">Community</span>
+                    <span class="tag tag-large valve">Valve</span>
+                </div>
+            </div>
+            <h2>Item Boxes</h2>
+            <p>
+                These boxes are based on the design of the backpack item grid. Each box is made up
+                of a few elements, the box itself which takes on the maximum width of its parent,
+                an inner item image (optional) which has a max width of the box, and finally the item
+                name. The border colour of the box as well as the title colour can be changed by
+                adding a relevant colour class to each.<br><br>
+                An optional element <span class="highlight">(.item-box-effect)</span> can be added 
+                inside the item-box to add an on-hover effect. The colour of which is determined by
+                adding a relevant background colour class to the <span class="highlight">(.item-box-effect)</span>
+                class, like so; <span class="highlight">(.item-box-effect strange-bg)</span>
+            </p>
+            <div class="grid grid-col3 grid-gap">
+                <div class="item-box unique">
+                    <div class="item-box-effect unique-bg"></div>
+                    <img class="item-box-img" src="assets/pomson.png" alt="pomson">
+                    <h2 class="unique">Pomson 6000</h2>
+                </div>
+                <div class="item-box strange">
+                    <div class="item-box-effect strange-bg"></div>
+                    <img class="item-box-img" src="assets/pomson.png" alt="pomson">
+                    <h2 class="strange">Pomson 6000</h2>
+                </div>
+                <div class="item-box collectors">
+                    <div class="item-box-effect collectors-bg"></div>
+                    <img class="item-box-img" src="assets/pomson.png" alt="pomson">
+                    <h2 class="collectors">Pomson 6000</h2>
+                </div>
+            </div>
+            <h2>Item Detail Boxes</h2>
+            <p>
+                These boxes are based on the item detail or item attribute boxes seen in TF2.
+                They consist of a containing box <span class="highlight">.item-info-box</span>
+                which expands to the width of it's parent container, which itself contains
+                an item title <span class="highlight">.item-info-box-title</span> whose
+                colour can be modified using the colour classes above. Below the title is
+                an <span class="highlight">.item-info</span> element, then finally an unordered
+                <span class="highlight">ul.item-info-stats</span> list element which contains a list
+                of stats, or attributes.<br><br>
+                Each item in this list can be either positive, negative or neutral. Use the following
+                classes to change the colours; <span class="highlight">.att-positive, .att-negative</span>
+            </p>
+            <div class="grid grid-col3 grid-gap">
+                <div class="item-info-box">
+                    <div class="item-info-box-title">Frontier Justice</div>
+                    <div class="item-info">Level 5 Shotgun</div>
+                    <ul class="item-info-stats">
+                        <li class="att-positive">Gain 2 revenge crits for each sentry kill</li>
+                        <li class="att-positive">1 for each sentry assist when destroyed</li>
+                        <li class="att-negative">-50% clip size</li>
+                    </ul>
+                </div>
+                <div class="item-info-box">
+                    <div class="item-info-box-title strange">Frontier Justice</div>
+                    <div class="item-info">Level 5 Shotgun</div>
+                    <ul class="item-info-stats">
+                        <li class="att-positive">Gain 2 revenge crits for each sentry kill</li>
+                        <li class="att-positive">1 for each sentry assist when destroyed</li>
+                        <li class="att-negative">-50% clip size</li>
+                        <li>Neutral Stat</li>
+                    </ul>
+                </div>
+                <div class="item-info-box">
+                    <div class="item-info-box-title valve">Frontier Justice</div>
+                    <div class="item-info">Level 5 Shotgun</div>
+                    <ul class="item-info-stats">
+                        <li class="att-positive">Gain 2 revenge crits for each sentry kill</li>
+                        <li class="att-positive">1 for each sentry assist when destroyed</li>
+                        <li class="att-negative">-50% clip size</li>
+                    </ul>
+                </div>
+            </div>
+            <h2>Tables</h2>
+            <p>
+                These tables take on the style of the Team Fortress 2 scoreboard.
+            </p>
+            <table>
+                <tr>
+                    <th>Name</th>
+                    <th>Info</th>
+                    <th>Score</th>
+                    <th>Ping</th>
+                </tr>
+                <tr>
+                    <td>Skunky678</td>
+                    <td>A legend among men</td>
+                    <td>124</td>
+                    <td>56</td>
+                </tr>
+                <tr>
+                    <td>Skunky678</td>
+                    <td>A legend among men</td>
+                    <td>124</td>
+                    <td>56</td>
+                </tr>
+            </table>
+            <p>
+                There is also a dark option available for use on lighter backgrounds.
+                Add <span class="highlight">.dark-table</span> class.
+            </p>
+            <div class="background-light padded-box">
+                <table class="dark-table">
+                    <tr>
+                        <th>Name</th>
+                        <th>Info</th>
+                        <th>Score</th>
+                        <th>Ping</th>
+                    </tr>
+                    <tr>
+                        <td>Skunky678</td>
+                        <td>A legend among men</td>
+                        <td>124</td>
+                        <td>56</td>
+                    </tr>
+                    <tr>
+                        <td>Skunky678</td>
+                        <td>A legend among men</td>
+                        <td>124</td>
+                        <td>56</td>
+                    </tr>
+                </table>
+            </div>
+            <h2>Kill Feed Notifications</h2>
+            <p>
+                These notifications take the style of the kill feed in Team Fortress 2.
+                There is a dark and light version add <span class="highlight">.dark-kill</span> class.
+            </p>
+            <div class="kill-feed">This is a kill feed message.</div>
+            <div class="kill-feed dark-kill">This is a dark kill feed message.</div>
+            <div class="kill-feed"><span class="blu">Blu Colour </span></div>
+            <div class="kill-feed"><span class="red">Red Colour</span></div>
+            <h2>Final Words</h2>
+            <p>
+                Yep that's all she wrote folks. I know there's not much here but it should
+                be enough to get started if you wanna do some TF2 related things. Please
+                remember that all TF2 related content is copyright of Valve Corp. However
+                the fonts are available freely from <a href="https://wiki.teamfortress.com/wiki/Fonts">DaFont</a><br><br>
+            </p>
+        </div>
+    </body>
+</html>
