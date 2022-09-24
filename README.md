@@ -75,7 +75,7 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 
 ## Trading
 - [Backpack.TF](https://backpack.tf/) - Crowd-sourced pricelist, keeping track of user’s backpack values and much more!
-- [Calculator.tf ](https://calculator.tf/) - The fastest and easiest way to convert between TF2 currencies.
+- [Calculator.TF ](https://calculator.tf/) - The fastest and easiest way to convert between TF2 currencies.
 - [Marketplace.TF](https://marketplace.tf/) - Securely buy TF2 items with cash. No trade holds or hidden fees.
 - [STN Trading](https://stntrading.eu/) - Buy and sell items “For the discerning gentleperson”.
 - [Scrap.TF](https://scrap.tf/) - Home to automated Steam trading, scrap/hat banking, raffles and more!
@@ -87,7 +87,7 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 - [HUD Editor](https://github.com/CriticalFlaw/TF2HUD.Editor) - A tool for installing and customizing your favorite custom Team Fortress 2 HUDs.
 - [Loadout.TF](https://loadout.tf/) - A web-app that lets you create custom loadouts without restrictions.
 - [Modelling Resources and Tutorials](https://kritzkast.com/tf2_mod_guide) – Created by Pogo for KritzKast.
-- [MvM.tf](https://mvm.tf/) - MvM wave generator 
+- [MvM.TF](https://mvm.tf/) - MvM wave generator 
 - [Rep.TF](https://rep.tf/) - Search many player reputation databases, all in one place.
 - [Serveme.TF](https://serveme.tf/) - The easiest way to get a TF2 server.
 - [SteamRep](https://steamrep.com/) - An invaluable trading tool that lets you check if a potential trader is a scammer.
