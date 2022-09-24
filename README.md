@@ -33,6 +33,7 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 - [Jump Academy](https://jumpacademy.tf/) - Community of jumpers from all around the world who share the same passion for rocket jumping.
 - [KritzKast](https://kritzkast.com/) - THE Team Fortress 2 Podcast, hosted every Saturday by Agro.
 - [Potato.TF](https://potato.tf/servers) - Community made Mann vs. Machine tours. Play and level up to earn in-game medals.
+- [Skial](https://www.skial.com/servers) - The largest TF2 community serving over 10 million players since 2010.
 - [Teamwork.TF](https://teamwork.tf/) - Community Quickplay, Jarate Pages, news and stats about Team Fortress 2.
 - [r/TF2](https://reddit.com/r/tf2/) - Subreddit dedicated to any and all Team Fortress 2 content; news, jokes and discussions.
 
