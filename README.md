@@ -87,6 +87,7 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 - [HUD Editor](https://github.com/CriticalFlaw/TF2HUD.Editor) - A tool for installing and customizing your favorite custom Team Fortress 2 HUDs.
 - [Loadout.TF](https://loadout.tf/) - A web-app that lets you create custom loadouts without restrictions.
 - [Modelling Resources and Tutorials](https://kritzkast.com/tf2_mod_guide) – Created by Pogo for KritzKast.
+- [MvM.tf](https://mvm.tf/) - MvM wave generator 
 - [Rep.TF](https://rep.tf/) - Search many player reputation databases, all in one place.
 - [Serveme.TF](https://serveme.tf/) - The easiest way to get a TF2 server.
 - [SteamRep](https://steamrep.com/) - An invaluable trading tool that lets you check if a potential trader is a scammer.
