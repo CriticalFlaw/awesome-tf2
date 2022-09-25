@@ -36,6 +36,7 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 - [Skial](https://www.skial.com/servers) - The largest TF2 community serving over 10 million players since 2010.
 - [Teamwork.TF](https://teamwork.tf/) - Community Quickplay, Jarate Pages, news and stats about Team Fortress 2.
 - [r/TF2](https://reddit.com/r/tf2/) - Subreddit dedicated to any and all Team Fortress 2 content; news, jokes and discussions.
+- [Uncletopia](https://uncletopia.com/servers) - Uncle Dane’s custom community server.
 
 ## Competitive
 - [asiafortress](https://asiafortress.com/) - Asian community website, hosting Team Fortress 2 6v6 events for the Asia region.
