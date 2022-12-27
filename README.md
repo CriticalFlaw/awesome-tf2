@@ -26,7 +26,6 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 
 ## Community Sites
 - [BalanceMod.TF](https://www.bmod.tf/) -  Introduces new features and re-balances all of the unbalanced weapons in the game.
-- [Creators.TF](https://creators.tf/) - TF2 community celebration project that takes the initiative to provide new content.
 - [Essentials.TF](https://twitter.com/tf2essentials) - Competitive and community news aggregator and host of monthly NA/EU tournaments.
 - [FuckYeahTF2](https://fuckyeahtf2.tumblr.com/) - Tumblr for everything and anything TF2-related, namely artwork showcases.
 - [Jump.TF](https://jump.tf/) - The TF2 Jumping community.
