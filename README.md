@@ -26,15 +26,16 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 
 ## Community Sites
 - [BalanceMod.TF](https://www.bmod.tf/) -  Introduces new features and re-balances all of the unbalanced weapons in the game.
-- [Creators.TF](https://creators.tf/) - TF2 community celebration project that takes the initiative to provide new content.
 - [Essentials.TF](https://twitter.com/tf2essentials) - Competitive and community news aggregator and host of monthly NA/EU tournaments.
 - [FuckYeahTF2](https://fuckyeahtf2.tumblr.com/) - Tumblr for everything and anything TF2-related, namely artwork showcases.
 - [Jump.TF](https://jump.tf/) - The TF2 Jumping community.
 - [Jump Academy](https://jumpacademy.tf/) - Community of jumpers from all around the world who share the same passion for rocket jumping.
 - [KritzKast](https://kritzkast.com/) - THE Team Fortress 2 Podcast, hosted every Saturday by Agro.
 - [Potato.TF](https://potato.tf/servers) - Community made Mann vs. Machine tours. Play and level up to earn in-game medals.
+- [Skial](https://www.skial.com/servers) - The largest TF2 community serving over 10 million players since 2010.
 - [Teamwork.TF](https://teamwork.tf/) - Community Quickplay, Jarate Pages, news and stats about Team Fortress 2.
 - [r/TF2](https://reddit.com/r/tf2/) - Subreddit dedicated to any and all Team Fortress 2 content; news, jokes and discussions.
+- [Uncletopia](https://uncletopia.com/servers) - Uncle Dane’s custom community server.
 
 ## Competitive
 - [asiafortress](https://asiafortress.com/) - Asian community website, hosting Team Fortress 2 6v6 events for the Asia region.
@@ -74,6 +75,7 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 
 ## Trading
 - [Backpack.TF](https://backpack.tf/) - Crowd-sourced pricelist, keeping track of user’s backpack values and much more!
+- [Calculator.TF ](https://calculator.tf/) - The fastest and easiest way to convert between TF2 currencies.
 - [Marketplace.TF](https://marketplace.tf/) - Securely buy TF2 items with cash. No trade holds or hidden fees.
 - [STN Trading](https://stntrading.eu/) - Buy and sell items “For the discerning gentleperson”.
 - [Scrap.TF](https://scrap.tf/) - Home to automated Steam trading, scrap/hat banking, raffles and more!
@@ -85,6 +87,7 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 - [HUD Editor](https://github.com/CriticalFlaw/TF2HUD.Editor) - A tool for installing and customizing your favorite custom Team Fortress 2 HUDs.
 - [Loadout.TF](https://loadout.tf/) - A web-app that lets you create custom loadouts without restrictions.
 - [Modelling Resources and Tutorials](https://kritzkast.com/tf2_mod_guide) – Created by Pogo for KritzKast.
+- [MvM.TF](https://mvm.tf/) - MvM wave generator 
 - [Rep.TF](https://rep.tf/) - Search many player reputation databases, all in one place.
 - [Serveme.TF](https://serveme.tf/) - The easiest way to get a TF2 server.
 - [SteamRep](https://steamrep.com/) - An invaluable trading tool that lets you check if a potential trader is a scammer.
