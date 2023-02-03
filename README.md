@@ -57,8 +57,8 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 ## Modifications
 - [CFG.TF](https://cfg.tf/) - Open-source hub dedicated to generating custom Team Fortress 2 configurations.
 - [CleanTF2plus](https://github.com/JarateKing/CleanTF2plus) - A sequel to the original Clean TF2 mod. Designed to provide mods that reduces visual clutter and increase FPS.
-- [GameBanana](https://gamebanana.com/games/297) - Treasure trove of mods including custom skins, maps, UIs, models and animations.
 - [comfig huds](https://comfig.app/huds) - An alternative HUDs directory after huds.tf shut down.
+- [GameBanana](https://gamebanana.com/games/297) - Treasure trove of mods including custom skins, maps, UIs, models and animations.
 - [mastercomfig](https://mastercomfig.com/) - Customizable configs for optimized game performance and hit registration.
 - [Paysus Skins](https://steamcommunity.com/groups/PaysusSkins) - Source of TF2 Animation Mods and More!
 - [TF2Maps](https://tf2maps.net/) - Dedicated community for TF2 level design, mapping resource, tutorials and 72-Hour Jams!
