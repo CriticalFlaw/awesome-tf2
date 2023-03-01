@@ -7,6 +7,9 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 <i>If you have a TF2 resource or site to add, please submit a <a href="https://github.com/CriticalFlaw/awesome-tf2/pulls">pull request</a>.</br> Check the <a href="code-of-conduct.md">contribution guidelines</a> for info on formatting and writing pull requests.</i>
 </p>
 
+### Related lists
+ - [awesome-tf2-devs](https://github.com/tf2-software-enthusiasts/awesome-tf2-devs) - Similar list of tf2 projects for developers
+
 ### Table of Contents
 - [Annual Charity Events](#annual-charity-events)
 - [Community Sites](#community-sites)
