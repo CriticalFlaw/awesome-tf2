@@ -17,6 +17,7 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 - [Trading](#trading)
 - [Useful Tools](#useful-tools)
 - [Video Content](#video-content)
+- [Related Lists](#related-lists)
 
 ## Annual Charity Events
 - [Blapature Co.](https://steamcommunity.com/groups/BlapatureCo) - EU-based charity livestream hosted by a group of TF2 YouTubers.
@@ -98,3 +99,6 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 ## Video Content
 - [Twitch](https://twitch.tv/directory/game/Team%20Fortress%202) - Team Fortress 2 streams on Twitch.
 - [YouTube](https://youtube.com/results?search_query=Team+Fortress+2) - Team Fortress 2 videos on YouTube.
+
+### Related Lists
+ - [awesome-tf2-devs](https://github.com/tf2-software-enthusiasts/awesome-tf2-devs) - Similar list of tf2 projects for developers
