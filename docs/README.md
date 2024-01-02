@@ -1,1 +1,0 @@
-Webpage for [awesome-tf2](https://github.com/CriticalFlaw/awesome-tf2) using [Team Fortress 2 UI Kit](https://gingerbunny.github.io/tf2-ui-kit/) by [GingerBunny](https://github.com/GingerBunny).
