@@ -20,9 +20,9 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 - [Related Lists](#related-lists)
 
 ## Annual Charity Events
-- [Blapature Co.](https://steamcommunity.com/groups/BlapatureCo) - EU-based charity livestream hosted by a group of TF2 YouTubers.
+- [Blapature Co.](https://blapature.org/) - EU-based charity livestream hosted by a group of TF2 YouTubers.
 - [hugs.TF](https://hugs.tf/) - UK-based charity livestream event benefiting [Special Effect](https://specialeffect.org.uk/).
-- [TFConnect](https://twitter.com/TF_Connect) - Community ran charity event focused on Mann vs. Machines, benefiting [Special Effect](https://specialeffect.org.uk/).
+- [TFConnect](https://tfconnect.org/) - Community ran charity event focused on Mann vs. Machines, benefiting [Special Effect](https://specialeffect.org.uk/).
 - [Tip of the Hats](https://tipofthehats.org/) - Charity livestream benefiting [One Step Camp](https://camponestep.org/). Ran from 2013-2021.
 
 ## Community Sites
@@ -65,7 +65,6 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 - [TF2Maps](https://tf2maps.net/) - Dedicated community for TF2 level design, mapping resource, tutorials and 72-Hour Jams!
 
 ## Official Valve endorsed Sites
-- [Merchandise](https://valvestore.forfansbyfans.com/title/team-fortress-2.html) - WeLoveFine’s official store selling original and community submitted items.
 - [Source Games Issue Tracker](https://github.com/ValveSoftware/Source-1-Games/issues) - Bug reports and feature requests tracker for TF2 and the Source Engine.
 - [Steam Community Market](https://steamcommunity.com/market/search?appid=440) - Buy and sell items with other Steam community members.
 - [Steam Workshop](https://steamcommunity.com/workshop/browse/?appid=440) - Submit new in-game items for Valve’s consideration, and view others’ works.
@@ -82,12 +81,11 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 - [Scrap.TF](https://scrap.tf/) - Home to automated Steam trading, scrap/hat banking, raffles and more!
 
 ## Useful Tools
-- [CastingEssentials](https://github.com/PazerOP/CastingEssentials) - A plugin that enhances the viewing experience of both casters and viewers.
+- [CastingEssentials](https://github.com/dalegaard/CastingEssentials/releases/latest) - A plugin that enhances the viewing experience of both casters and viewers.
 - [Crowbar](https://steamcommunity.com/groups/CrowbarTool) - A model decompiler similar to GCFScape but more up to date and feature rich.
 - [GCFScape](https://developer.valvesoftware.com/wiki/GCFScape) - An app that can open and extract Source Engine content packed as .gcf and .vpk files.
-- [HUD Editor](https://github.com/CriticalFlaw/TF2HUD.Editor) - A tool for installing and customizing your favorite custom Team Fortress 2 HUDs.
+- [HUD Editor](https://criticalflaw.ca/TF2HUD.Editor/) - A tool for installing and customizing your favorite custom Team Fortress 2 HUDs.
 - [Loadout.TF](https://loadout.tf/) - A web-app that lets you create custom loadouts without restrictions.
-- [Modelling Resources and Tutorials](https://kritzkast.com/tf2_mod_guide) – Created by Pogo for KritzKast.
 - [MvM.TF](https://mvm.tf/) - MvM wave generator 
 - [Rep.TF](https://rep.tf/) - Search many player reputation databases, all in one place.
 - [Serveme.TF](https://serveme.tf/) - The easiest way to get a TF2 server.
