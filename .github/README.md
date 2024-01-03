@@ -75,7 +75,7 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 
 ## Trading
 - [Backpack.TF](https://backpack.tf/) - Crowd-sourced pricelist, keeping track of user’s backpack values and much more!
-- [Calculator.TF ](https://calculator.tf/) - The fastest and easiest way to convert between TF2 currencies.
+- [Calculator.TF](https://calculator.tf/) - The fastest and easiest way to convert between TF2 currencies.
 - [Marketplace.TF](https://marketplace.tf/) - Securely buy TF2 items with cash. No trade holds or hidden fees.
 - [STN Trading](https://stntrading.eu/) - Buy and sell items “For the discerning gentleperson”.
 - [Scrap.TF](https://scrap.tf/) - Home to automated Steam trading, scrap/hat banking, raffles and more!
@@ -99,4 +99,4 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 - [YouTube](https://youtube.com/results?search_query=Team+Fortress+2) - Team Fortress 2 videos on YouTube.
 
 ### Related Lists
- - [awesome-tf2-devs](https://github.com/tf2-software-enthusiasts/awesome-tf2-devs) - Similar list of tf2 projects for developers
+ - [awesome-tf2-devs](https://github.com/tf2-software-enthusiasts/awesome-tf2-devs) - Similar list of tf2 projects for developers.
