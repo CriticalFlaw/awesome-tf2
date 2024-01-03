@@ -1,9 +1,9 @@
 <h1 align="center">
-awesome-tf2  <a href="https://github.com/sindresorhus/awesome"><img alt="Awesome Badge" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></a><br>
+awesome-tf2 <a href="https://github.com/sindresorhus/awesome"><img alt="Awesome Badge" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></a><br>
 </h1>
 
 <p align="center">
-A curated list of awesome Team Fortress 2 resources, tools and more.<br>  
+A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 <i>If you have a TF2 resource or site to add, please submit a <a href="https://github.com/CriticalFlaw/awesome-tf2/pulls">pull request</a>.</br> Check the <a href="code-of-conduct.md">contribution guidelines</a> for info on formatting and writing pull requests.</i>
 </p>
 
@@ -22,11 +22,11 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 ## Annual Charity Events
 - [Blapature Co.](https://blapature.org/) - EU-based charity livestream hosted by a group of TF2 YouTubers.
 - [hugs.TF](https://hugs.tf/) - UK-based charity livestream event benefiting [Special Effect](https://specialeffect.org.uk/).
-- [TFConnect](https://tfconnect.org/) - Community ran charity event focused on Mann vs. Machines, benefiting [Special Effect](https://specialeffect.org.uk/).
+- [TFConnect](https://tfconnect.org/) - Community ran charity event benefiting [Special Effect](https://specialeffect.org.uk/).
 - [Tip of the Hats](https://tipofthehats.org/) - Charity livestream benefiting [One Step Camp](https://camponestep.org/). Ran from 2013-2021.
 
 ## Community Sites
-- [BalanceMod.TF](https://www.bmod.tf/) -  Introduces new features and re-balances all of the unbalanced weapons in the game.
+- [BalanceMod.TF](https://www.bmod.tf/) - Introduces new features and re-balances all of the unbalanced weapons in the game.
 - [Essentials.TF](https://twitter.com/tf2essentials) - Competitive and community news aggregator and host of monthly NA/EU tournaments.
 - [FuckYeahTF2](https://fuckyeahtf2.tumblr.com/) - Tumblr for everything and anything TF2-related, namely artwork showcases.
 - [Jump.TF](https://jump.tf/) - The TF2 Jumping community.
@@ -50,7 +50,7 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 
 ## Competitive Streams
 - [CappingTV](https://twitch.tv/CappingTV) - Streams Oceania/Asia 6v6 and Highlander matches from various leagues.
-- [Essentials.TF](https://twitch.tv/essentialstf) - Streams competitive Highlander, 6v6 and Ultiduo for RGL and ETF2L.  
+- [Essentials.TF](https://twitch.tv/essentialstf) - Streams competitive Highlander, 6v6 and Ultiduo for RGL and ETF2L.
 - [KritzKast](https://twitch.tv/kritzkast) – Streams competitive 6v6, Highlander, Prolander matches from around the world.
 - [TFLIVEtv](https://twitch.tv/tflivetv) – Streams competitive 6v6 for Australia’s ozfortress.
 - [TeamFortress TV](https://teamfortress.tv/stream/teamfortresstv) – Streams competitive 6v6 for RGL and ETF2L.
@@ -75,7 +75,7 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 
 ## Trading
 - [Backpack.TF](https://backpack.tf/) - Crowd-sourced pricelist, keeping track of user’s backpack values and much more!
-- [Calculator.TF ](https://calculator.tf/) - The fastest and easiest way to convert between TF2 currencies.
+- [Calculator.TF](https://calculator.tf/) - The fastest and easiest way to convert between TF2 currencies.
 - [Marketplace.TF](https://marketplace.tf/) - Securely buy TF2 items with cash. No trade holds or hidden fees.
 - [STN Trading](https://stntrading.eu/) - Buy and sell items “For the discerning gentleperson”.
 - [Scrap.TF](https://scrap.tf/) - Home to automated Steam trading, scrap/hat banking, raffles and more!
@@ -99,4 +99,4 @@ A curated list of awesome Team Fortress 2 resources, tools and more.<br>
 - [YouTube](https://youtube.com/results?search_query=Team+Fortress+2) - Team Fortress 2 videos on YouTube.
 
 ### Related Lists
- - [awesome-tf2-devs](https://github.com/tf2-software-enthusiasts/awesome-tf2-devs) - Similar list of tf2 projects for developers
+ - [awesome-tf2-devs](https://github.com/tf2-software-enthusiasts/awesome-tf2-devs) - Similar list of tf2 projects for developers.
